@@ -330,6 +330,17 @@ img {
     color: #fff;
 }
 
+/* banners */
+
+.banner {
+    width: 100%;
+    height: 500px;
+    background-image: url('../Images/fruits.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 /* Card */
 
 .card {
